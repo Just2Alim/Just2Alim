@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./alim_github_banner_new_1777587647693 2.jpg" width="100%" alt="Alim's Banner">
+  <img src="banner.jpg" width="100%" alt="Alim's Banner">
 </p>
 
 <p align="center">

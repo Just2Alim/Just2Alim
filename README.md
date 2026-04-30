@@ -70,6 +70,10 @@
 ![](https://github-readme-stats-lilac-nu-35.vercel.app/api?username=Just2Alim&show_icons=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff&card_width=250)
 ![](https://nirzak-streak-stats.vercel.app/?user=Just2Alim&theme=dark&background=000000&hide_border=false&sideNums=ffffff&currStreakNum=ffffff&fire=ffffff&ring=ffffff&stroke=fffffff&currStreakLabel=ffffff&card_width=340)<br/><br/>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Just2Alim/Just2Alim/output/pacman-contribution-graph.svg" alt="Pac-Man Animation" width="100%" />
+</p>
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Just2Alim&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false" width="100%"/>
 
 </div>

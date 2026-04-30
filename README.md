@@ -23,7 +23,7 @@
       </ul>
     </td>
     <td width="40%" align="center">
-      <img src="https://media.giphy.com/media/iY8u7zf74AbS0/giphy.gif" width="180px">
+      <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/raw/main/Astronaut.gif" width="180px">
     </td>
   </tr>
 </table>
@@ -52,6 +52,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Just2Alim/Just2Alim/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
+
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Just2Alim&theme=tokyonight&area=true" width="100%" />

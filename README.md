@@ -65,6 +65,15 @@
 <div align="center">
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 23 April 2026 - To: 30 April 2026
+
+Total Time: 0 secs
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 ![](https://github-readme-stats-lilac-nu-35.vercel.app/api?username=Just2Alim&show_icons=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff&card_width=250)

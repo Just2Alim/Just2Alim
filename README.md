@@ -23,7 +23,7 @@
       </ul>
     </td>
     <td width="40%" align="center">
-      <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Astronaut.gif" width="180px" alt="Astronaut">
+      <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/astronaut.gif" width="180px">
     </td>
   </tr>
 </table>

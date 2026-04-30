@@ -1,6 +1,6 @@
 # 🚀 Alim's Portfolio | Fullstack & AI Developer
 
-![GitHub Profile Banner](./portfolio_background_1777586558665.jpg)
+![GitHub Profile Banner](./91535bc90a800b532116028457cdd0f9.jpg)
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=24&pause=1000&color=4285F4&center=true&vCenter=true&width=500&lines=Crafting+Next-Gen+AI+Solutions;Mastering+Flutter+%26+Firebase;Creating+Autonomous+Agents" alt="Typing SVG" />

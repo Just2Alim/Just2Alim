@@ -64,17 +64,9 @@
 
 <div align="center">
 
-<!--START_SECTION:waka-->
-
-```txt
-From: 23 April 2026 - To: 30 April 2026
-
-Total Time: 0 secs
-
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Just2Alim/Just2Alim/output/pacman-contribution-graph.svg" alt="Pac-Man Animation" width="100%" />
+</p>
 
 ![](https://github-readme-stats-lilac-nu-35.vercel.app/api?username=Just2Alim&show_icons=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff&card_width=250)
 ![](https://nirzak-streak-stats.vercel.app/?user=Just2Alim&theme=dark&background=000000&hide_border=false&sideNums=ffffff&currStreakNum=ffffff&fire=ffffff&ring=ffffff&stroke=fffffff&currStreakLabel=ffffff&card_width=340)<br/><br/>

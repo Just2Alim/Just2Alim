@@ -1,9 +1,9 @@
 # 🚀 Alim's Portfolio | Fullstack & AI Developer
 
-![GitHub Profile Banner](banner.png)
+![GitHub Profile Banner](./github_profile_banner_1777586419449.jpg)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=24&pause=1000&color=4285F4&center=true&vCenter=true&width=500&lines=Crafting+Next-Gen+AI+Solutions;Building+SmartKit+🏥;Mastering+Flutter+%26+Firebase;Creating+Autonomous+Agents" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=24&pause=1000&color=4285F4&center=true&vCenter=true&width=500&lines=Crafting+Next-Gen+AI+Solutions;Mastering+Flutter+%26+Firebase;Creating+Autonomous+Agents" alt="Typing SVG" />
 </p>
 
 ---
@@ -11,7 +11,7 @@
 ### 👨‍💻 About Me
 I am a passionate **Fullstack Developer** and **AI Enthusiast** dedicated to building tools that bridge the gap between human needs and machine intelligence. My work ranges from healthcare applications to autonomous agent frameworks.
 
-- 🔭 **Current Focus**: Modernizing medical technology with [SmartKit](https://github.com/Just2Alim/SmartKit).
+- 🔭 **Current Focus**: Advanced AI integration and cross-platform architecture.
 - 🧠 **AI Research**: Integrating Gemini, Ollama, and custom LLM workflows into mobile and desktop apps.
 - ⚡ **Philosophy**: "Simplicity is the ultimate sophistication."
 
@@ -21,16 +21,7 @@ I am a passionate **Fullstack Developer** and **AI Enthusiast** dedicated to bui
 
 <table width="100%">
   <tr>
-    <td width="50%" valign="top">
-      <h4>🏥 SmartKit</h4>
-      <p>A premium medical companion app with AI-powered barcode scanning, medication tracking, and personalized health insights.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-        <img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=google-gemini&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
+    <td width="100%" valign="top">
       <h4>🧠 Obsidian Agent</h4>
       <p>An autonomous development environment integrated into Obsidian, enabling real-time code analysis and AI-driven edits.</p>
       <p>

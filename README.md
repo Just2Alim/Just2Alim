@@ -65,7 +65,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Just2Alim/Just2Alim/output/pacman-contribution-graph.svg" alt="Pac-Man Animation" width="100%" />
+  <img src="https://raw.githubusercontent.com/Just2Alim/Just2Alim/output/pacman-contribution-graph-dark.svg" alt="Pac-Man Animation" width="100%" />
 </p>
 
 ![](https://github-readme-stats-lilac-nu-35.vercel.app/api?username=Just2Alim&show_icons=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff&card_width=250)

@@ -3,7 +3,7 @@
   <a href="https://www.linkedin.com/in/justalim/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:justalim@example.com" target="_blank">
+  <a href="mailto:2019_alim@mail.ru" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/Just2Alim" target="_blank">
